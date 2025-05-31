@@ -8,5 +8,3 @@ Selanjutnya, sistem akan mengaktifkan ⚙️ Mixer yang akan berputar selama ⏱
 Kemudian, sistem membuka 🔁 Valve 2 selama ⏱️ 5 detik untuk melakukan proses pembuangan hasil campuran dari tangki. Setelah itu, 🔁 Valve 2 akan tertutup kembali secara otomatis ✅.
 
 Setelah seluruh tahapan selesai, sistem akan kembali mengulangi proses dari awal 🔄, menciptakan siklus otomatis yang terus-menerus dan efisien.
-
-![image alt] (https://github.com/BabasNapit/Water-Tank/blob/592ee2aa298cdbe48550eac05de0587d26f664e0/Screenshot%202025-05-30%20033524.png)
